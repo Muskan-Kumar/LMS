@@ -12,6 +12,7 @@ const Dashboard = () => {
   useEffect(()=>{
     fetchDashboardData()
   },[])
+  
   return dashboardData ?(
     <div className='min-h-screen flex flex-col item-start justify-between gap-8 md:p-8 md:pb-0 p-4 pt-8 pb-0'>
         <div className='space-y-5'>

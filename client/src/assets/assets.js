@@ -93,7 +93,7 @@ export const assets = {
 
 export const dummyEducatorData = {
     "_id": "675ac1512100b91a6d9b8b24",
-    "name": "GreatStack",
+    "name": "Muskan",
     "email": "user.greatstack@gmail.com",
     "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yclFkaDBOMmFqWnBoTTRBOXZUanZxVlo0aXYifQ",
     "createdAt": "2024-12-12T10:56:17.930Z",
@@ -197,7 +197,7 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
+            "name": "Niraj",
             "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
         },
         "courseTitle": "Introduction to JavaScript",
@@ -206,7 +206,7 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
+            "name": "Muskan",
             "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
         },
         "courseTitle": "Introduction to JavaScript",
@@ -215,7 +215,7 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
+            "name": "Gulshan",
             "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
         },
         "courseTitle": "Advanced Python Programming",
@@ -224,7 +224,7 @@ export const dummyStudentEnrolled = [
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-            "name": "GreatStack",
+            "name": "Tuntun",
             "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
         },
         "courseTitle": "Web Development Bootcamp",
